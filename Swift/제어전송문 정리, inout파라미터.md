@@ -75,7 +75,7 @@ func doSomething() {
 }
 doSomething()
 ```
-## 5) throw > 아직 
+## 5) throw > 아직 안배움
 ### (에러가 발생할 수 있는) throwing 함수에서 사용
 ```javascript
 // 향후 Error Handling 부분을 배운 후, 복습
