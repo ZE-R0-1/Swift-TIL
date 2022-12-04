@@ -1,0 +1,30 @@
+```javascript
+var number: Int? = 7
+var hello: String? = "안녕하세요"
+var name: String? = "홍길동"
+var newNum: Double? = 5.5
+print(number) // Optional(7)
+print(hello)  // Optional("안녕하세요")
+print(name) // Optional("홍길동")
+print(newNum) // Optional(5.5)
+
+if let num = number {
+    print(num)  // 7
+}
+if let hi = hello {
+    print(hi) // 안녕하세요
+}
+if let n = name {
+    print(n)  // 홍길동
+}
+if let num = newNum {
+    print(num)  // 5.5
+}
+
+// guard let 바인딩 연습 =================
+func doPrint(say: String?) {
+    guard let hi = say else { return }
+    print(hi)
+}
+doPrint(say: hello) // 안녕하세요
+```
