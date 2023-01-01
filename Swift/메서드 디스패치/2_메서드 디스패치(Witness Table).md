@@ -27,7 +27,6 @@ class FirstClass: MyProtocol {
 - func method2() { print("Class - Virtual Table method2") }
 - func anotherMothod() { print("Class - Virtual Table method3") }
 ==============================================================
-==============================================================
 [Protocol Witness Table]
 - func method1() { print("Class - Virtual Table method1") }   // 요구사항 - 우선순위 반영⭐️
 - func method2() { print("Class - Virtual Table method2") }   // 요구사항 - 우선순위 반영⭐️
