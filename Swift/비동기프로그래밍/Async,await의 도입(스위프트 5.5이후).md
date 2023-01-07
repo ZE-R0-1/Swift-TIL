@@ -42,10 +42,8 @@ func linkedPrint(completion: @escaping (Int) -> Void) {
 Async/await 방식의 도입 / Swift 5.5 ~
 ```javascript
 // 콜백함수를 계속 들여쓰기 할 필요없이 반환시점을 기다릴수 있어, 깔끔한 코드의 처리가 가능
-
 // Async/await 함수의 설계
 // 내부에 따로 DispatchQueue로 보낼 필요는 없음
-
 //func longtimeAsyncAwait() async -> Int {
 //    print("프린트 - 1")
 //    sleep(1)
