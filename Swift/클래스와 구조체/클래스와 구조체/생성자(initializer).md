@@ -20,7 +20,7 @@ bori.weight = 15
 bori.weight
 ```
 ### 초기화 메서드 / 이니셜라이저(initializer)
-**생성자(이니셜라이저)**는 인스턴스를 만들때 사용하는 특별한 메서드
+**생성자(이니셜라이저)** 는 인스턴스를 만들때 사용하는 특별한 메서드
 ```javascript
 class Dog1 {
     var name: String
