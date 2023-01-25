@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  LoginProject
-//
-//  Created by Allen H on 2021/12/05.
-//
-
 import UIKit
 
 final class ViewController: UIViewController {
