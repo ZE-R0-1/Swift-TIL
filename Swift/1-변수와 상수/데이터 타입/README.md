@@ -12,13 +12,13 @@ print(k)  // 7
 ### 스위프트(swift)의 데이터 타입
 ---
 Swift에서 사용하는 데이터 타입
-- 1) Int: 정수(Integer)
-- 2) Float : 실수(부동소수점) 6자리 소수점
-- 3) Double : 실수(부동소수점) 15자리 소수점
-- 4) Character : 문자(글자 한개)
-- 5) String : 물자열
-- 6) Bool : 참과 거짓
-- 7) 기타 : UInt, UInt64, UInt32, UInt8: 0, 양의 정수
+ 1) Int: 정수(Integer)
+ 2) Float : 실수(부동소수점) 6자리 소수점
+ 3) Double : 실수(부동소수점) 15자리 소수점
+ 4) Character : 문자(글자 한개)
+ 5) String : 물자열
+ 6) Bool : 참과 거짓
+ 7) 기타 : UInt, UInt64, UInt32, UInt8: 0, 양의 정수
 ---
 ```javascript
 var b: Int = 7
