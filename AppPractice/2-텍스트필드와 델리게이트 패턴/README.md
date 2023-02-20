@@ -38,3 +38,5 @@
 - 실제 터치 등, 화면의 입력을 받아들이는 객체
 - First응답 객체를 지정 해줌 (화면에서 일단 먼저 반응할 녀석)
 - 텍스트필드가 First응답 객체가 되면 > 키보드 올라옴 (한마디로 유저한테 먼저 반응할 것을 포커스를 시켜줌)
+## Reference 
+[Inflearn - 앨런 swift 문법 마스터 스쿨](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8-%EC%95%B1%EB%A7%8C%EB%93%A4%EA%B8%B0)
