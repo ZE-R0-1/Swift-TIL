@@ -4,3 +4,5 @@
 2) 코드로 스토리보드 객체를 생성해서, 화면 이동
 3) 스토리보드에서 화면 이동(간접 세그웨이)
 4) 스토리보드에서의 화면 이동(직접 세그웨이)
+## Reference 
+[Inflearn - 앨런 swift 문법 마스터 스쿨](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8-%EC%95%B1%EB%A7%8C%EB%93%A4%EA%B8%B0)
