@@ -10,3 +10,4 @@ Segue 만들기(스토리보드)(화면이동을 담당하는 객체) > performS
 Segue 만들기(스토리보드-직접연결)(화면이동을 담당하는 객체/버튼에서 직접실행(performSegue) > (자동호출) > shouldPerformSegue(조건에 따라 다음화면 이동할지/말지) > (자동호출) > prepare(데이터전달)  
 ## Reference 
 [Inflearn - 앨런 swift 문법 마스터 스쿨(앱강의)](https://www.inflearn.com/course/%EC%8A%A4%EC%9C%84%ED%94%84%ED%8A%B8-%EB%AC%B8%EB%B2%95-%EB%A7%88%EC%8A%A4%ED%84%B0-%EC%8A%A4%EC%BF%A8-%EC%95%B1%EB%A7%8C%EB%93%A4%EA%B8%B0)
+### 키 몸무게 앱 만들기
