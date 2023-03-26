@@ -17,10 +17,6 @@ func deferStatement1() {
 deferStatement1()
 
 
-
-
-
-
 func deferStatement2() {
     
     if true {
