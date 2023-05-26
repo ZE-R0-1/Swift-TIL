@@ -1,9 +1,9 @@
 # 커스텀 델리게이트 패턴의 활용
 - [테이블뷰 코드로 만들기, 모델 구성](https://github.com/ZE-R0-1/Swift-TIL/blob/main/AppPractice/8-%EC%BB%A4%EC%8A%A4%ED%85%80%20%EB%8D%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%8A%B8%20%ED%8C%A8%ED%84%B4%EC%9D%98%20%ED%99%9C%EC%9A%A9/%ED%85%8C%EC%9D%B4%EB%B8%94%EB%B7%B0%20%EC%BD%94%EB%93%9C%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EA%B8%B0%2C%20%EB%AA%A8%EB%8D%B8%EA%B5%AC%EC%84%B1.md)
 - [비즈니스로직 모델 구성, 셀 만들기](https://github.com/ZE-R0-1/Swift-TIL/blob/main/AppPractice/8-%EC%BB%A4%EC%8A%A4%ED%85%80%20%EB%8D%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%8A%B8%20%ED%8C%A8%ED%84%B4%EC%9D%98%20%ED%99%9C%EC%9A%A9/%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%A1%9C%EC%A7%81%20%EB%AA%A8%EB%8D%B8%20%EA%B5%AC%EC%84%B1%2C%20%EC%85%80%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
-- 저장속성과 didSet을 사용하는 패턴
-- 디테일화면 만들기
-- 디테일화면에서 유저 추가/업데이트 로직 구성
-- 제스처, 피커뷰 만들기
-- 노티피케이션, 키보드가 올라올때의 뷰이동
-- (커스텀) 델리케이트 패턴으로의 수정
+- [저장속성과 didSet을 사용하는 패턴](https://github.com/ZE-R0-1/Swift-TIL/blob/main/AppPractice/8-%EC%BB%A4%EC%8A%A4%ED%85%80%20%EB%8D%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%8A%B8%20%ED%8C%A8%ED%84%B4%EC%9D%98%20%ED%99%9C%EC%9A%A9/%EC%A0%80%EC%9E%A5%EC%86%8D%EC%84%B1%EA%B3%BC%20didSet%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%20%ED%8C%A8%ED%84%B4.md)
+- [디테일화면 만들기](https://github.com/ZE-R0-1/Swift-TIL/blob/main/AppPractice/8-%EC%BB%A4%EC%8A%A4%ED%85%80%20%EB%8D%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%8A%B8%20%ED%8C%A8%ED%84%B4%EC%9D%98%20%ED%99%9C%EC%9A%A9/%EB%94%94%ED%85%8C%EC%9D%BC%ED%99%94%EB%A9%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+- [디테일화면에서 유저 추가/업데이트 로직 구성](https://github.com/ZE-R0-1/Swift-TIL/blob/main/AppPractice/8-%EC%BB%A4%EC%8A%A4%ED%85%80%20%EB%8D%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%8A%B8%20%ED%8C%A8%ED%84%B4%EC%9D%98%20%ED%99%9C%EC%9A%A9/%EB%94%94%ED%85%8C%EC%9D%BC%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C%20%EC%9C%A0%EC%A0%80%EC%B6%94%EA%B0%80%2C%20%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8%20%EB%A1%9C%EC%A7%81%20%EA%B5%AC%EC%84%B1.md)
+- [제스처, 피커뷰 만들기](https://github.com/ZE-R0-1/Swift-TIL/blob/main/AppPractice/8-%EC%BB%A4%EC%8A%A4%ED%85%80%20%EB%8D%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%8A%B8%20%ED%8C%A8%ED%84%B4%EC%9D%98%20%ED%99%9C%EC%9A%A9/%EC%A0%9C%EC%8A%A4%EC%B3%90%2C%20%ED%94%BC%EC%BB%A4%EB%B7%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
+- [노티피케이션, 키보드가 올라올때의 뷰이동](https://github.com/ZE-R0-1/Swift-TIL/blob/main/AppPractice/8-%EC%BB%A4%EC%8A%A4%ED%85%80%20%EB%8D%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%8A%B8%20%ED%8C%A8%ED%84%B4%EC%9D%98%20%ED%99%9C%EC%9A%A9/%EB%85%B8%ED%8B%B0%ED%94%BC%EC%BC%80%EC%9D%B4%EC%85%98%2C%20%ED%82%A4%EB%B3%B4%EB%93%9C%EA%B0%80%20%EC%98%AC%EB%9D%BC%EC%98%AC%EB%95%8C%EC%9D%98%20%EB%B7%B0%EC%9D%B4%EB%8F%99.md)
+- [(커스텀) 델리케이트 패턴으로의 수정](https://github.com/ZE-R0-1/Swift-TIL/blob/main/AppPractice/8-%EC%BB%A4%EC%8A%A4%ED%85%80%20%EB%8D%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%8A%B8%20%ED%8C%A8%ED%84%B4%EC%9D%98%20%ED%99%9C%EC%9A%A9/(%EC%BB%A4%EC%8A%A4%ED%85%80)%20%EB%8D%B8%EB%A6%AC%EA%B2%8C%EC%9D%B4%ED%8A%B8%20%ED%8C%A8%ED%84%B4%EC%9C%BC%EB%A1%9C%EC%9D%98%20%EC%88%98%EC%A0%95.md)
